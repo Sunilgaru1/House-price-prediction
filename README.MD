@@ -1,0 +1,1 @@
+This project focuses on building a machine learning model to predict house prices based on various features such as location, area, number of rooms, etc. The goal is to analyze housing data and create an accurate and efficient prediction system.
